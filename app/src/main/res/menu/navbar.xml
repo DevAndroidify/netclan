@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/profile"
+android:title="My Profile"
+    android:icon="@drawable/ic_baseline_person_24"
+
+    />
+    <item android:id="@+id/net"
+        android:title="My Network"
+
+        android:icon="@drawable/group"
+
+        />
+    <item
+        android:title="Switch to Business"
+        android:icon="@drawable/briefcase"
+
+        />
+    <item
+        android:title="Dating"
+        android:icon="@drawable/seller"
+
+        />
+    <item
+        android:title="Matrimony"
+        android:icon="@drawable/heart"
+
+        />
+    <item
+        android:title="Buy-Sell-Rent"
+        android:icon="@drawable/shopping"
+
+        />
+    <item
+        android:title="Jobs"
+        android:icon="@drawable/bag"
+
+        />
+    <item
+        android:title="Business Cards"
+        android:icon="@drawable/business"
+
+        />
+    <item
+        android:title="Netclan Groups"
+        android:icon="@drawable/hashtag"
+
+        />
+    <item
+        android:title="Notes"
+        android:icon="@drawable/pencil"
+
+        />
+    <item
+        android:title="Live Locations"
+        android:icon="@drawable/ic_baseline_location_on_24"
+        />
+
+
+</menu>
